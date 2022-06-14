@@ -13,10 +13,11 @@
             <li>
                 <img src="img/Logo WeTV.png" height="90" alt="Netflix Logo">
             </li> 
-            <li><a class="active" href="#home">Beranda</a></li>
-            <li><a href="#news">Kategori</a></li>
+            <li><a class="active" href="index.php">Beranda</a></li>
+            <li><a href="#contact">Kategori</a></li>
             <li><a href="#contact">Genre</a></li>
         </div>
+        
         <div class="navright">   
             <li><a href="#" class="btn btn-rounded">Sign In</a></li>
         </div>  
@@ -28,7 +29,7 @@
             class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
             <img src="img/0 (4).webp" alt="">
             <div class="judul">
-                Judul
+                Sang Ratu Program
             </div>
             <div class="genre">
                 ini genre
@@ -38,7 +39,7 @@
             class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
             <img src="img/220 (5).webp" alt="">
             <div class="judul">
-            Judul
+                One Piece
             </div>
             <div class="genre">
                 ini genre
@@ -48,7 +49,7 @@
             class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
             <img src="img/220 (10).webp" alt="">
             <div class="judul">
-                Judul
+                Terpesona Senyumanmu
             </div>
             <div class="genre">
                 ini genre
@@ -58,7 +59,7 @@
             class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
             <img src="img/220 (13).webp" alt="">
             <div class="judul">
-                Judul
+                Little Mom
             </div>
             <div class="genre">
                 ini genre
@@ -68,12 +69,29 @@
             class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
             <img src="img/220 (3).webp" alt="">
             <div class="judul">
-                Judul
+                Dragon Ball
             </div>
             <div class="genre">
                 ini genre
             </div>
         </div>
+        
     </div>
+
+        <div class="footer-container">
+            <div class="footer">
+                <div class="footer-heading footer-1">
+                    <a href="">Ketentuan Pelayanan</a>
+                    <a href="">Perjanjian Privasi</a>
+                    <a href="">Cookie Policy</a>
+                    <h3>Copyright © 2016 -2022 Image Future Investment (HK) Limited.</h3>
+                </div>
+                <div class="footer-heading footer-2">
+                    <a href="">Saran</a>
+                    <a href="">Pertanyaan yang sering diajukan</a>
+                </div>
+            </div>
+        </div>
+    
 </body>
 </html>
