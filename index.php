@@ -31,61 +31,63 @@
             <li><a href="#" class="btn btn-rounded">Sign In</a></li>
         </div>  
     </header>
-
-    <div class="row">
-        <div class="teksrekom">Untuk Kamu</div>
-        <div 
-            class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
-            <img src="img/0 (4).webp" alt="">
-            <div class="judul">
-                Sang Ratu Program
+    
+    <div class="poster-container">
+        <div class="row">
+            <div class="teksrekom">Untuk Kamu</div>
+            <div 
+                class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
+                <img src="img/0 (4).webp" alt="">
+                <div class="judul">
+                    Sang Ratu Program
+                </div>
+                <div class="genre">
+                    ini genre
+                </div>
             </div>
-            <div class="genre">
-                ini genre
+            <div 
+                class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
+                <img src="img/220 (5).webp" alt="">
+                <div class="judul">
+                    One Piece
+                </div>
+                <div class="genre">
+                    ini genre
+                </div>
+            </div>
+            <div 
+                class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
+                <img src="img/220 (10).webp" alt="">
+                <div class="judul">
+                    Terpesona Senyumanmu
+                </div>
+                <div class="genre">
+                    ini genre
+                </div>
+            </div>
+            <div 
+                class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
+                <img src="img/220 (13).webp" alt="">
+                <div class="judul">
+                    Little Mom
+                </div>
+                <div class="genre">
+                    ini genre
+                </div>
+            </div>
+            <div 
+                class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
+                <img src="img/220 (3).webp" alt="">
+                <div class="judul">
+                    Dragon Ball
+                </div>
+                <div class="genre">
+                    ini genre
+                </div>
             </div>
         </div>
-        <div 
-            class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
-            <img src="img/220 (5).webp" alt="">
-            <div class="judul">
-                One Piece
-            </div>
-            <div class="genre">
-                ini genre
-            </div>
-        </div>
-        <div 
-            class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
-            <img src="img/220 (10).webp" alt="">
-            <div class="judul">
-                Terpesona Senyumanmu
-            </div>
-            <div class="genre">
-                ini genre
-            </div>
-        </div>
-        <div 
-            class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
-            <img src="img/220 (13).webp" alt="">
-            <div class="judul">
-                Little Mom
-            </div>
-            <div class="genre">
-                ini genre
-            </div>
-        </div>
-        <div 
-            class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
-            <img src="img/220 (3).webp" alt="">
-            <div class="judul">
-                Dragon Ball
-            </div>
-            <div class="genre">
-                ini genre
-            </div>
-        </div>
-        
     </div>
+    
 
         <div class="footer-container">
             <div class="footer">

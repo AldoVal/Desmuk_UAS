@@ -39,14 +39,20 @@ img{
       font-family: "Poppins", serif;
   }
 
+  .poster-container{
+    padding:0px;
+    margin-top: 50px auto;
+    box-sizing: border-box;
+    background-color: #ffffff;
+  }
+
   .column {
-    float: center;
-    margin: 100px;
+    float: left;
+    margin: 30px;
     width: 15%;
-    padding:25px;
-    height: 320px;
+    padding-bottom: 90px;
+    height: 250px;
     border-style: none;
-    border-width: 10px;
   }
 
   .row:after {
