@@ -18,13 +18,22 @@
             <li><a href="#contact">Genre</a></li>
         </div>
         
-        <div class="navright">   
+        <div class="navright">  
+        <li>
+                 <div class="container">
+            <form action="" class="search-bar">
+                <input type="text" placeholder="search film" name="q">
+                <button type="submit"><img src="img/search.png"></button>
+            </form>
+
+        </div>
+    </li>   
             <li><a href="#" class="btn btn-rounded">Sign In</a></li>
         </div>  
     </header>
 
     <div class="row">
-        <div class="teksrekom">Untukmu</div>
+        <div class="teksrekom">Untuk Kamu</div>
         <div 
             class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
             <img src="img/0 (4).webp" alt="">
