@@ -10,6 +10,7 @@ img{
 }
 
 .teksrekom{
+    margin-top: 25px;
     font-family: "Poppins";
     font-weight: 800;
     font-size: 35px;
@@ -40,9 +41,19 @@ img{
   }
 
   .poster-container{
-    padding:0px;
-    margin-top: 50px auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    /* padding-top: ; */
+    /* margin-left: 250px; */
+    align-self: center;
     box-sizing: border-box;
+    background-color: #ffffff;
+  }
+  .row{
+    padding-bottom: 25px;
+    display: table;
+    clear: both;
+    font-family: "Poppins", serif;
     background-color: #ffffff;
   }
 
@@ -50,16 +61,12 @@ img{
     float: left;
     margin: 30px;
     width: 15%;
-    padding-bottom: 90px;
-    height: 250px;
+    padding-bottom: 150px;
+    height: 200px;
     border-style: none;
   }
 
-  .row:after {
-    display: table;
-    clear: both;
-    font-family: "Poppins", serif;
-  }
+  
 
   .judul{
       font-family: "Poppins", serif;
@@ -167,7 +174,6 @@ backdrop-filter: blur(4x) saturate(180%);
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  /* font-family: Arial, Helvetica, sans-serif ; */
   background-color: #ffffff;
   padding-bottom: 0px;
 }
