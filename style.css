@@ -10,6 +10,7 @@ img{
 }
 
 .teksrekom{
+    margin-left: 50px;
     font-family: "Poppins";
     font-weight: 800;
     font-size: 35px;
@@ -53,6 +54,7 @@ img{
     padding-bottom: 90px;
     height: 250px;
     border-style: none;
+    margin-bottom: 150px;
   }
 
   .row:after {
@@ -157,8 +159,8 @@ backdrop-filter: blur(4x) saturate(180%);
   
   border: 0;
   border-radius: 50%;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   background: #58629b;
   cursor: pointer;
 }
@@ -202,5 +204,18 @@ backdrop-filter: blur(4x) saturate(180%);
 .footer-heading a:hover{
   color: red;
   transition: 0.3s ease-out;
+}
+
+.background-depan{
+  width: 100%;
+  min-height: 30vh;
+  
+}
+
+.background-belakang{
+  width: 100%;
+  min-height: 35vh;
+  margin-bottom: 50px;
+  
 }
 
