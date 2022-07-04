@@ -35,26 +35,33 @@
     <div class="poster-container">
         <div class="row">
             <div class="teksrekom">Untuk Kamu</div>
-            <div class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
-                <img src="img/0 (4).webp" alt="">
+            <div class="column">
+                <?php
+                    
+                ?>
+                <img src="img/Tiongkok/ratuProgram.webp" alt="">
                 <div class="judul">
                     Sang Ratu Program
                 </div>
                 <div class="genre">
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
                     ini genre
                 </div>
             </div>
-            <div class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
-                <img src="img/220 (5).webp" alt="">
+            <div class="column">
+                <img src="img/Anime/onepiece.webp" alt="">
                 <div class="judul">
                     One Piece
                 </div>
                 <div class="genre">
+                    <a href=""></a>
                     ini genre
                 </div>
             </div>
-            <div class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
-                <img src="img/220 (10).webp" alt="">
+            <div class="column">
+                <img src="img/Korea/terpesonaSenyumanmu.webp" alt="">
                 <div class="judul">
                     Terpesona Senyumanmu
                 </div>
@@ -62,7 +69,7 @@
                     ini genre
                 </div>
             </div>
-            <div class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
+            <div class="column">
                 <img src="img/220 (13).webp" alt="">
                 <div class="judul">
                     Little Mom
@@ -71,7 +78,7 @@
                     ini genre
                 </div>
             </div>
-            <div class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
+            <div class="column">
                 <img src="img/220 (3).webp" alt="">
                 <div class="judul">
                     Dragon Ball
@@ -81,7 +88,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <!-- <div class="teksrekom">Untuk Kamu</div> -->
             <div class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
                 <img src="img/0 (4).webp" alt="">
@@ -128,7 +135,7 @@
                     ini genre
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
         
