@@ -47,25 +47,25 @@ img{
     /* margin-left: 250px; */
     align-self: center;
     box-sizing: border-box;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
   }
   .row{
     padding-bottom: 25px;
     display: table;
     clear: both;
     font-family: "Poppins", serif;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
   }
 
   .column {
     float: left;
-    background-color: #d9d9d9d9;
-    opacity: 0.3;
+    /* background-color: #d9d9d9d9; */
     margin: 30px;
     width: 15%;
     padding-bottom: 150px;
     height: 200px;
     border-style: none;
+    margin-bottom: 150px;
   }
 
   
@@ -82,6 +82,7 @@ img{
     font-weight:lighter;
     font-size: 15px;
     text-align: center;
+    display: inline;
   }
 
   li a {
@@ -137,15 +138,15 @@ img{
 
 .search-bar{ 
   margin-right: 80px;
-position:sticky;
-width: 80%;
-max-width: 250px;
-background: rgba(61, 35, 35, 0.2);
-display: flex;
-align-items: center;
-border-radius: 50px;
-padding: 8px 30px;
-backdrop-filter: blur(4x) saturate(180%);
+  position:sticky;
+  width: 80%;
+  max-width: 250px;
+  background: rgba(61, 35, 35, 0.2);
+  display: flex;
+  align-items: center;
+  border-radius: 50px;
+  padding: 8px 30px;
+  backdrop-filter: blur(4x) saturate(180%);
 }
 
 .search-bar input{
@@ -166,8 +167,8 @@ backdrop-filter: blur(4x) saturate(180%);
   
   border: 0;
   border-radius: 50%;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   background: #58629b;
   cursor: pointer;
 }
@@ -210,5 +211,18 @@ backdrop-filter: blur(4x) saturate(180%);
 .footer-heading a:hover{
   color: red;
   transition: 0.3s ease-out;
+}
+
+.background-depan{
+  width: 100%;
+  min-height: 30vh;
+  
+}
+
+.background-belakang{
+  width: 100%;
+  min-height: 35vh;
+  margin-bottom: 50px;
+  
 }
 

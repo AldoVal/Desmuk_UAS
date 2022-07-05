@@ -27,8 +27,9 @@
                     </form>
                 </div>
             </li>   
-                <li><a href="#" class="btn btn-rounded">Sign In</a>
-                </li>
+            <li>
+                <a href="#" class="btn btn-rounded">Sign In</a>
+            </li>
         </div>  
     </header>
     
@@ -36,18 +37,13 @@
         <div class="row">
             <div class="teksrekom">Untuk Kamu</div>
             <div class="column">
-                <?php
-                    
-                ?>
                 <img src="img/Tiongkok/ratuProgram.webp" alt="">
                 <div class="judul">
                     Sang Ratu Program
                 </div>
                 <div class="genre">
-                    <a href=""></a>
-                    <a href=""></a>
-                    <a href=""></a>
-                    ini genre
+                    <a href="">Drama</a>,
+                    <a href="">Romansa</a>
                 </div>
             </div>
             <div class="column">
@@ -56,8 +52,8 @@
                     One Piece
                 </div>
                 <div class="genre">
-                    <a href=""></a>
-                    ini genre
+                    <a href="">Aksi</a>,
+                    <a href="">Petualangan</a>
                 </div>
             </div>
             <div class="column">
@@ -66,30 +62,33 @@
                     Terpesona Senyumanmu
                 </div>
                 <div class="genre">
-                    ini genre
+                    <a href="">Drama</a>,
+                    <a href="">Romansa</a>
                 </div>
             </div>
             <div class="column">
-                <img src="img/220 (13).webp" alt="">
+                <img src="img/Ori/littleMom.webp" alt="">
                 <div class="judul">
                     Little Mom
                 </div>
                 <div class="genre">
-                    ini genre
+                    <a href="">Romansa</a>
                 </div>
             </div>
             <div class="column">
-                <img src="img/220 (3).webp" alt="">
+                <img src="img/Anime/db.webp" alt="">
                 <div class="judul">
                     Dragon Ball
                 </div>
                 <div class="genre">
-                    ini genre
+                    <a href="">Aksi</a>,
+                    <a href="">Petualangan</a>
                 </div>
             </div>
         </div>
-        <!-- <div class="row">
-            <!-- <div class="teksrekom">Untuk Kamu</div> -->
+        
+        <div class="row">
+            <div class="teksrekom">Sering Dicari</div>
             <div class="column" style="background-color:#d9d9d9d9 opacity=0.3;">
                 <img src="img/0 (4).webp" alt="">
                 <div class="judul">
@@ -135,7 +134,7 @@
                     ini genre
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 
         
