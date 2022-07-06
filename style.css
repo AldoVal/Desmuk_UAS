@@ -37,6 +37,46 @@ img{
     float: right;
   }
 
+  .dropdown {
+    z-index: 2000;
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: "Poppins", serif;
+  }
+  
+  .dropdown-content {
+    opacity: 0.5;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 100;
+    font-family: "Poppins", serif;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+    opacity: 1;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
   .body{
       font-family: "Poppins", serif;
   }
@@ -45,11 +85,8 @@ img{
     margin-top: 50px;
     margin-bottom: 75px;
     margin-left: 50px;
-    /* padding-top: ; */
-    /* margin-left: 250px; */
     align-self: center;
     box-sizing: border-box;
-    /* background-color: #ffffff; */
   }
   .row{
     margin: 0px;
@@ -206,11 +243,13 @@ img{
 
 /*manual navigation*/
 .slider{
+  padding-top: 20px;
+  z-index: -1;
   width: 1080px;
   height: 500px;
   border-radius: 10px;
   overflow: hidden;
-  position: center;
+  position: relative;
 }
 
 .slides{

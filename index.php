@@ -13,9 +13,33 @@
             <li>
                 <img src="img/Logo WeTV.png" height="90" alt="Netflix Logo">
             </li> 
-            <li><a class="active" href="index.php">Beranda</a></li>
-            <li><a href="#contact">Kategori</a></li>
-            <li><a href="#contact">Genre</a></li>
+            <li><a class="active" href="index.html">Beranda</a></li>
+            <li class="dropdown"><a href="Kategori.html">Kategori</a>
+                <a class="dropdown-content">
+                    <p>Anime</p>
+                    <p>K-Drama</p>
+                    <p>Series</p>
+                </a>
+            </li>
+            <li class="dropdown"><a href="Genre.html">Genre</a>
+                <a class="dropdown-content">
+                    <p>Action</p>
+                    <p>Adventure</p>
+                    <p>Animation</p>
+                    <p>Biography</p>
+                    <p>Comedy</p>
+                    <p>Crime</p>
+                    <p>Documentary</p>
+                    <p>Drama</p>
+                    <p>Family</p>
+                    <p>Fantasy</p>
+                    <p>History</p>
+                    <p>Horror</p>
+                    <p>Musical</p>
+                    <p>Sci-fi</p>
+                    <p>Sport</p>
+                </a>
+            </li>
         </div>
         
         <div class="navright">  
