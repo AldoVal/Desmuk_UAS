@@ -75,7 +75,6 @@ img{
   }
 
   .dropdown {
-    z-index: 2000;
     position: relative;
     display: inline-block;
     margin: 0;
@@ -116,6 +115,10 @@ img{
 
   .body{
       font-family: "Poppins", serif;
+  }
+
+  .main-content-wrapper{
+    z-index: -1;
   }
 
   .poster-container{
@@ -282,7 +285,6 @@ img{
 /*manual navigation*/
 .slider{
   padding-top: 20px;
-  z-index: -1;
   width: 1080px;
   height: 500px;
   border-radius: 10px;
