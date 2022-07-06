@@ -18,7 +18,7 @@ img{
     color: black;
 }
 
-.navbar{
+header{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -170,7 +170,7 @@ img{
     text-decoration: none;
   }
   
-  .navbar li:hover{
+  header li:hover{
     color:red ;
   }
 
