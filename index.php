@@ -32,9 +32,180 @@
             </li>
         </div>  
     </header>
-    <div class="banner">
-        <img src="img/myLecturerMyHusband.webp">
+
+
+    <center>
+        <div class="slider">
+            <div class="slides">
+                <input type="radio" name="radio-btn" id="radio1">
+                <input type="radio" name="radio-btn" id="radio2">
+                <input type="radio" name="radio-btn" id="radio3">
+
+                <div class="slide first">
+                    <img src="img/banner/inuyasha.webp" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/banner/bannerLittleMom.webp" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/banner/myLecturerMyHusband.webp" alt="">
+                </div>
+
+                <div class="navigation-auto">
+                    <div class="auto-btn1"></div>
+                    <div class="auto-btn2"></div>
+                    <div class="auto-btn3"></div>
+                </div>
+
+            </div>
+            <div class="navigation-manual">
+                <label for="radio1" class="manual-btn"></label>
+                <label for="radio2" class="manual-btn"></label>
+                <label for="radio3" class="manual-btn"></label>
+            </div>
+        </div>
+    </center>
+   
+    <div class="poster-container">
+        <div class="row">
+            <div class="teksrekom">Untuk Kamu</div>
+            <div class="column">
+                <img class="poster-img" src="img/Tiongkok/ratuProgram.webp" alt="">
+                <div class="judul">
+                    Sang Ratu Program
+                </div>
+                <div class="genre">
+                    <a href="">Drama</a>,
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Anime/onepiece.webp" alt="">
+                <div class="judul">
+                    One Piece
+                </div>
+                <div class="genre">
+                    <a href="">Aksi</a>,
+                    <a href="">Petualangan</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Korea/terpesonaSenyumanmu.webp" alt="">
+                <div class="judul">
+                    Terpesona Senyumanmu
+                </div>
+                <div class="genre">
+                    <a href="">Drama</a>,
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Ori/littleMom.webp" alt="">
+                <div class="judul">
+                    Little Mom
+                </div>
+                <div class="genre">
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Anime/db.webp" alt="">
+                <div class="judul">
+                    Dragon Ball
+                </div>
+                <div class="genre">
+                    <a href="">Aksi</a>,
+                    <a href="">Petualangan</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="column">
+                <img class="poster-img" src="img/Tiongkok/ratuProgram.webp" alt="">
+                <div class="judul">
+                    Sang Ratu Program
+                </div>
+                <div class="genre">
+                    <a href="">Drama</a>,
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Anime/onepiece.webp" alt="">
+                <div class="judul">
+                    One Piece
+                </div>
+                <div class="genre">
+                    <a href="">Aksi</a>,
+                    <a href="">Petualangan</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Korea/terpesonaSenyumanmu.webp" alt="">
+                <div class="judul">
+                    Terpesona Senyumanmu
+                </div>
+                <div class="genre">
+                    <a href="">Drama</a>,
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Ori/littleMom.webp" alt="">
+                <div class="judul">
+                    Little Mom
+                </div>
+                <div class="genre">
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Anime/db.webp" alt="">
+                <div class="judul">
+                    Dragon Ball
+                </div>
+                <div class="genre">
+                    <a href="">Aksi</a>,
+                    <a href="">Petualangan</a>
+                </div>
+            </div>
+        </div>
     </div>
+
+    <center>
+        <div class="slider">
+            <div class="slides">
+                <input type="radio" name="radio-btn" id="radio1">
+                <input type="radio" name="radio-btn" id="radio2">
+                <input type="radio" name="radio-btn" id="radio3">
+
+                <div class="slide first">
+                    <img src="img/banner/inuyasha.webp" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/banner/bannerLittleMom.webp" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/banner/myLecturerMyHusband.webp" alt="">
+                </div>
+
+                <div class="navigation-auto">
+                    <div class="auto-btn1"></div>
+                    <div class="auto-btn2"></div>
+                    <div class="auto-btn3"></div>
+                </div>
+
+            </div>
+            <div class="navigation-manual">
+                <label for="radio1" class="manual-btn"></label>
+                <label for="radio2" class="manual-btn"></label>
+                <label for="radio3" class="manual-btn"></label>
+            </div>
+        </div>
+    </center>
+   
+
     
     <div class="poster-container">
         <div class="row">
@@ -89,17 +260,72 @@
                 </div>
             </div>
         </div>
+
+        <div class="row">
+            <div class="column">
+                <img class="poster-img" src="img/Tiongkok/ratuProgram.webp" alt="">
+                <div class="judul">
+                    Sang Ratu Program
+                </div>
+                <div class="genre">
+                    <a href="">Drama</a>,
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Anime/onepiece.webp" alt="">
+                <div class="judul">
+                    One Piece
+                </div>
+                <div class="genre">
+                    <a href="">Aksi</a>,
+                    <a href="">Petualangan</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Korea/terpesonaSenyumanmu.webp" alt="">
+                <div class="judul">
+                    Terpesona Senyumanmu
+                </div>
+                <div class="genre">
+                    <a href="">Drama</a>,
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Ori/littleMom.webp" alt="">
+                <div class="judul">
+                    Little Mom
+                </div>
+                <div class="genre">
+                    <a href="">Romansa</a>
+                </div>
+            </div>
+            <div class="column">
+                <img class="poster-img" src="img/Anime/db.webp" alt="">
+                <div class="judul">
+                    Dragon Ball
+                </div>
+                <div class="genre">
+                    <a href="">Aksi</a>,
+                    <a href="">Petualangan</a>
+                </div>
+            </div>
+        </div>
     </div>
-
-    
-
+  
 
 
-    <div class="banner">
-        <img src="img/littleMom.webp">
-    </div>
-
-        
+        <script type="text/javascript">
+            var counter= 1;
+            setInterval(function(){
+                document.getElementById('radio' + counter).checked = true;
+                counter++;
+                if(counter >3){
+                    counter=1;
+                }
+            },5000);
+        </script>
     
 </body>
     <div class="footer-container">
