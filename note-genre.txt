@@ -1,0 +1,10 @@
+Genre :
+Aksi
+Drama
+Fantasi
+Fiksi-Ilmiah
+Horror
+Humor
+Petualangan
+Romansa
+Sejarah
