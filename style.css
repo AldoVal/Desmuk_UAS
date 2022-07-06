@@ -21,7 +21,6 @@ img{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
     background-color: #ffffff;
     opacity: 0.7;
     font-family: "Poppins", serif;
@@ -34,6 +33,44 @@ img{
 
   .li-r{
     float: right;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    opacity: 0.7;
+    font-family: "Poppins", serif;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+    font-family: "Poppins", serif;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+    opacity: 1;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
   }
 
   .body{
@@ -86,8 +123,9 @@ img{
     text-decoration: none;
   }
   
-  li a:hover {
+  .navbar li:hover{
     color:red ;
+    display: block;
   }
 
   .navleft{
