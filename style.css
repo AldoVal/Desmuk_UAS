@@ -41,9 +41,12 @@ img{
     display: inline-block;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
-    opacity: 1;
+    background-color: #f2f2f2;
     font-family: "Poppins", serif;
+  }
+
+  .dropdown:hover{
+    color:red;
   }
   
   .dropdown-content {
@@ -68,11 +71,14 @@ img{
 
   .dropdown-content a:hover {
     background-color: #ffffff;
-    opacity: 1;
   }
 
   .dropdown:hover .dropdown-content {
     display: block;
+  }
+
+  .dropdown-content a:hover{
+    color: red;
   }
 
   .body{
@@ -166,7 +172,6 @@ img{
   
   .navbar li:hover{
     color:red ;
-    display: block;
   }
 
   .navleft{

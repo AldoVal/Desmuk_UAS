@@ -15,30 +15,30 @@
             </li> 
             <li><a class="active" href="index.html">Beranda</a></li>
             <li class="dropdown"><a href="Kategori.html">Kategori</a>
-                <a class="dropdown-content">
-                    <p>Anime</p>
-                    <p>K-Drama</p>
-                    <p>Series</p>
-                </a>
+                <div class="dropdown-content">
+                    <p><a href="">Anime</a></p>
+                    <p><a href=""> K-Drama</a></p>
+                    <p><a href=""> Series</a></p>
+                </div>
             </li>
             <li class="dropdown"><a href="Genre.html">Genre</a>
-                <a class="dropdown-content">
-                    <p href="">Action</p>
-                    <p>Adventure</p>
-                    <p>Animation</p>
-                    <p>Biography</p>
-                    <p>Comedy</p>
-                    <p>Crime</p>
-                    <p>Documentary</p>
-                    <p>Drama</p>
-                    <p>Family</p>
-                    <p>Fantasy</p>
-                    <p>History</p>
-                    <p>Horror</p>
-                    <p>Musical</p>
-                    <p>Sci-fi</p>
-                    <p>Sport</p>
-                </a>
+                <div class="dropdown-content">
+                    <p><a href="">Action</a></p>
+                    <p><a href="">Adventure</a></p>
+                    <p><a href="">Animation</a></p>
+                    <p><a href="">Biography</a></p>
+                    <p><a href="">Comedy</a></p>
+                    <p><a href="">Crime</a></p>
+                    <p><a href="">Documentary</a></p>
+                    <p><a href="">Drama</a></p>
+                    <p><a href="">Family</a></p>
+                    <p><a href="">Fantasy</a></p>
+                    <p><a href="">History</a></p>
+                    <p><a href="">Horror</a></p>
+                    <p><a href="">Musical</a></p>
+                    <p><a href="">Sci-fi</a></p>
+                    <p><a href="">Sport</a></p>
+                </div>
             </li>
         </div>
         
